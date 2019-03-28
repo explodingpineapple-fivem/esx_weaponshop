@@ -6,17 +6,17 @@
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/esx_weaponshop
+fvm install --save --folder=esx explodingpineapple-fivem/esx_weaponshop
 ```
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_weaponshop.git [esx]/esx_weaponshop
+git clone https://github.com/explodingpineapple-fivem/esx_weaponshop.git [esx]/esx_weaponshop
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_weaponshop/archive/master.zip
+- Download https://github.com/explodingpineapple-fivem/esx_weaponshop/archive/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
