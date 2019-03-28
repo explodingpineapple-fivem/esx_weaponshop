@@ -2,7 +2,7 @@
 
 ## Download & Installation
 
-## Make sure you have esx_license(https://github.com/ESX-Org/esx_license) installed first
+## Make sure you have [esx_license](https://github.com/ESX-Org/esx_license) installed first
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
